@@ -1,0 +1,35 @@
+/* src/components/ExampleWrapper.module.css */
+
+/* reset et isolation complète */
+.wrapper {
+  box-sizing: border-box;
+  margin: var(--ifm-spacing-vertical) 0;
+  padding: var(--ifm-spacing-vertical) var(--ifm-spacing-horizontal);
+  border: 2px dashed var(--ifm-color-primary);
+  border-radius: var(--ifm-radius-large);
+  background: var(--ifm-background-surface-color);
+}
+.wrapper h1,
+.wrapper h2,
+.wrapper h3,
+.wrapper h4,
+.wrapper p {
+  margin: var(--ifm-spacing-vertical) 0;
+}
+
+/* listes avec retrait */
+.wrapper ul,
+.wrapper ol {
+  margin: var(--ifm-spacing-vertical) var(--ifm-spacing-horizontal);
+}
+
+/* petits ajustements typographiques */
+.wrapper strong,
+.wrapper b {
+  font-weight: var(--ifm-font-weight-bold);
+}
+
+.wrapper em,
+.wrapper i {
+  font-style: italic;
+}
