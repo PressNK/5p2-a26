@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
                        xmlns:moz="http://www.mozilla.org/2006/browser/search/">
-  <ShortName>Développement d&#39;applications Web I</ShortName>
-  <Description>Search Développement d&#39;applications Web I</Description>
+  <ShortName>Préparation au stage</ShortName>
+  <Description>Search Préparation au stage</Description>
   <InputEncoding>UTF-8</InputEncoding>
   <Image width="16" height="16" type="image/x-icon">https://pressnk.dev/5p2-a26/img/logonyancat.png</Image>
   <Url type="text/html" method="get" template="https://pressnk.dev/5p2-a26/search?q={searchTerms}"/>
