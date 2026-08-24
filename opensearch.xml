@@ -4,8 +4,8 @@
   <ShortName>Développement d&#39;applications Web I</ShortName>
   <Description>Search Développement d&#39;applications Web I</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://bentremblay.dev/1w1-a25/img/logonyancat.png</Image>
-  <Url type="text/html" method="get" template="https://bentremblay.dev/1w1-a25/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://bentremblay.dev/1w1-a25/opensearch.xml" />
-  <moz:SearchForm>https://bentremblay.dev/1w1-a25/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://pressnk.dev/5p2-a26/img/logonyancat.png</Image>
+  <Url type="text/html" method="get" template="https://pressnk.dev/5p2-a26/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://pressnk.dev/5p2-a26/opensearch.xml" />
+  <moz:SearchForm>https://pressnk.dev/5p2-a26/</moz:SearchForm>
 </OpenSearchDescription>
