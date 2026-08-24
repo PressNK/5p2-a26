@@ -1,36 +1,35 @@
 ---
 slug: /
-title: 🏠 Introduction
+title: 🎓 Introduction
 ---
 
-# Développement d'applications Web I
+# Préparation au stage
 
-![intro-meme](./img/cat-css-meme.png)
+![intro-stage](https://images.unsplash.com/photo-1521737711867-e3b97375f902?q=80&w=1200&auto=format&fit=crop)
 
-Ce cours se donne à la première session. Il sert à faire l’initiation à la programmation web côté client en développant des pages web statiques.
+Ce cours se donne en fin de parcours, juste avant le départ en stage. Il sert à **préparer les étudiants et étudiantes à vivre une expérience de stage réussie** en entreprise.
 
-Il permet de faire l’initiation à la programmation web côté client. Seule la programmation avec des langages de balisage et de style sera enseignée dans ce cours.
+Il aborde autant les aspects **administratifs et professionnels** (curriculum vitae, lettre de présentation) que les **notions de gestion de projet** (cycle de vie, planification, modèles de gestion) essentielles pour bien comprendre le fonctionnement d'une équipe de travail en informatique.
 
-Cette fondation sera réutilisée dans les cours Développement d’application Web II, III, et IV, ainsi que les cours de Projet Web I et II.
+Cette fondation vous permettra de bien vous présenter aux employeurs et de comprendre le contexte de gestion dans lequel vous évoluerez lors de votre stage.
 
 ## Plan de cours
 
 <DocCard item={{
-  type: 'link',
-  href: 'https://cegepdrummond-my.sharepoint.com/my?viewid=b7ab69eb%2D045b%2D4285%2Dac4f%2Da9028eb997c1&id=%2Fpersonal%2Fpresley%5Fnkambou%5Fcegepdrummond%5Fca%2FDocuments%2FCOURS%2F420%2D1W1%2DDM%2DA26%2F420%2D1W1%2DDM%5FPN%5FMKW%5FA26%2Epdf&parent=%2Fpersonal%2Fpresley%5Fnkambou%5Fcegepdrummond%5Fca%2FDocuments%2FCOURS%2F420%2D1W1%2DDM%2DA26',
-  label: 'Voir le plan de cours (PDF)' }} />
+type: 'link',
+href: 'https://cegepdrummond-my.sharepoint.com/my?viewid=b7ab69eb%2D045b%2D4285%2Dac4f%2Da9028eb997c1&id=%2Fpersonal%2Fpresley%5Fnkambou%5Fcegepdrummond%5Fca%2FDocuments%2FCOURS%2F420%2D5P2%2DDM%2DA26%2F420%2D5P2%2DDM%5FPN%5FA26%2Epdf&parent=%2Fpersonal%2Fpresley%5Fnkambou%5Fcegepdrummond%5Fca%2FDocuments%2FCOURS%2F420%2D5P2%2DDM%2DA26',
+label: 'Voir le plan de cours (PDF)' }} />
 
 ## Grille d'évaluation du cours
 
-| Évaluation                 | Semaine    | Pondération |
-| -------------------------- | ---------- |-------------|
-| Test sur les bases du HTML | Semaine 4  | 10%         |
-| Site Web HTML              | Semaine 5  | 5%          |
-| Site Web HTML & CSS        | Semaine 10 | 10%         |
-| Examen pratique HTML & CSS | Semaine 10 | 15%         |
-| Site Web avec Bootstrap    | Semaine 15 | 20%         |
-| Examen                     | Examen     | 40%         |
-
+| Évaluation                                          | Semaine    | Pondération |
+|-----------------------------------------------------|------------|-------------|
+| CV et lettre de présentation                        | Semaine 3  | 5%          |
+| Remise TP 1 – Projet et planifications              | Semaine 5  | 20%         |
+| Remise TP 2 – SCRUM                                 | Semaine 8  | 20%         |
+| Remise TP 3 – Étude de cas – Projet et intervenants | Semaine 11 | 10%         |
+| Remise TP 4 – Rapport de recherche de stage         | Semaine 14 | 10%         |
+| Examen sommatif                                     | Examen     | 35%         |
 
 ## Communication et disponibilité
 
@@ -44,10 +43,10 @@ S.v.p., assurez-vous d'inclure un max d'information dans vos communications pour
 
 ### Périodes de disponibilité
 
-| **Jour** | **Plage horaire** | **Lieu**   |
-|----------|-------------------| ---------- |
-| Mardi    | 12:00 - 14:00     | 1325-1     |
-| Vendredi | 12:00 - 14:00     | @ distance |
+| **Jour** | **Plage horaire** | **Lieu**  |
+|----------|-------------------| --------- |
+| Mardi    | 12:00 - 14:00     | 1325-1    |
+| Vendredi | 12:00 - 14:00     | @distance |
 
 ## Mes informations
 
@@ -56,6 +55,7 @@ S.v.p., assurez-vous d'inclure un max d'information dans vos communications pour
 
 ## Remerciements
 
-Merci à Pierre-Luc Boulanger et Benoit tremblay. Certaines des notions présentées sont inspirées de leurs notes de cours.
+Merci à François St-Hilaire et Jonathan Gareau. Certaines des notions présentées sont inspirées de leurs notes de cours.
 
 ## ✌️
+

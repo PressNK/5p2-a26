@@ -6,7 +6,7 @@ import path from 'path';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Développement d\'applications Web I',
+  title: 'Préparation au stage',
   tagline: 'Quartier général',
   favicon: 'img/logonyancat.png',
 
@@ -14,7 +14,7 @@ const config: Config = {
   url: 'https://pressnk.dev',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/1w1-a26/',
+  baseUrl: '/5p2-a26/',
 
   trailingSlash: true,
   noIndex: true,
@@ -22,7 +22,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'PressNK', // Usually your GitHub org/user name.
-  projectName: '1w1-a26', // Usually your repo name.
+  projectName: '5p2-a26', // Usually your repo name.
 
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
@@ -64,9 +64,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'Web I',
+      title: 'Préparation au Stage',
       logo: {
-        alt: 'Web I',
+        alt: 'Préparation au Stage',
         src: 'img/logonyancat.png',
       },
       items: [
