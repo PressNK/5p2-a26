@@ -36,7 +36,7 @@ Utilisée pour prioriser des exigences ou des tâches dans un projet :
 - **W**on't have (this time) — explicitement exclu pour cette itération
 
 :::info
-Cette méthode est très utilisée en contexte Agile pour prioriser le **backlog** (liste des tâches à faire) d'un projet — un concept que vous reverrez dans la section sur les [outils Agile](../03-outils-agile-et-gestion-de-taches/02-jira-et-suivi-de-projet-agile.md).
+Cette méthode est très utilisée en contexte Agile pour prioriser le **backlog** (liste des tâches à faire) d'un projet — un concept que vous reverrez dans la section sur les [outils Agile](../03-outils-et-gestion-de-taches/02-jira-et-suivi-de-projet-agile.md).
 :::
 
 ## Le *time blocking* (blocage de temps)

@@ -54,7 +54,7 @@ Ce graphique permet de repérer rapidement les problèmes de planification penda
 
 ## La rétrospective de sprint
 
-À la fin de chaque sprint, l'équipe se réunit pour une **rétrospective** — un concept que vous avez déjà vu à la semaine 2 avec la [rétrospection en phase de clôture](../../../02-s02/01-cycle-de-vie-projet/02-phases-du-cycle-de-vie.md). En Agile, cette pratique est répétée à **chaque sprint** plutôt qu'une seule fois à la fin du projet, ce qui permet une amélioration continue beaucoup plus rapide.
+À la fin de chaque sprint, l'équipe se réunit pour une **rétrospective** — un concept que vous avez déjà vu à la semaine 2 avec la [rétrospection en phase de clôture](../../../02-s02/01-cycle-de-vie-projet/03-phases-du-cycle-de-vie.md). En Agile, cette pratique est répétée à **chaque sprint** plutôt qu'une seule fois à la fin du projet, ce qui permet une amélioration continue beaucoup plus rapide.
 
 ## Bonnes pratiques pour un stagiaire dans Jira
 

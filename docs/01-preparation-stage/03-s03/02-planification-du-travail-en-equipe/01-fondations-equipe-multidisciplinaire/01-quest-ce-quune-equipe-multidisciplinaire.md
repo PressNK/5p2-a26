@@ -29,7 +29,7 @@ Une équipe de développement logiciel n'est **pas composée uniquement de progr
 | **Product Owner**                          | Représente le client, priorise le travail à faire                             |
 | **Scrum Master / Agile coach**             | Facilite le travail d'équipe et retire les obstacles                          |
 | **Administrateur système / DevOps**        | Gère les serveurs, les déploiements, l'infrastructure                          |
-| **Gestionnaire de projet**                 | Coordonne l'échéancier, le budget et les ressources ([voir Semaine 2](../../02-s02/01-cycle-de-vie-projet/04-roles-cles.md)) |
+| **Gestionnaire de projet**                 | Coordonne l'échéancier, le budget et les ressources ([voir Semaine 2](../../../02-s02/01-cycle-de-vie-projet/05-roles-cles.md)) |
 
 :::tip
 Vous avez déjà vu les rôles de **gestionnaire de projet**, de **project leader** et d'**expert du sujet (SME)** à la semaine 2. Ces rôles existent en parallèle des rôles ci-dessus : une même personne peut parfois cumuler plusieurs rôles, surtout dans une petite entreprise ou un stage.
