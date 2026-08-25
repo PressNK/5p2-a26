@@ -7,11 +7,13 @@ title: 🎓 Introduction
 
 ![intro-stage](https://metiersquebec.ca/wp-content/uploads/2025/11/Devenir-Technicien-informatique-Support-niveau-1-2-3-au-Quebec-810x400.jpg)
 
-Ce cours se donne en fin de parcours, juste avant le départ en stage. Il sert à **préparer les étudiants et étudiantes à vivre une expérience de stage réussie** en entreprise.
+Ce cours se donne en fin de parcours, juste avant le départ en stage. Il sert à **préparer les étudiants et étudiantes à vivre une expérience de stage réussie** en entreprise, en couvrant à la fois les compétences professionnelles et les connaissances techniques du milieu du travail en TI.
 
-Il aborde autant les aspects **administratifs et professionnels** (curriculum vitae, lettre de présentation) que les **notions de gestion de projet** (cycle de vie, planification, modèles de gestion) essentielles pour bien comprendre le fonctionnement d'une équipe de travail en informatique.
+Vous y développerez d'abord vos outils de recherche d'emploi: rédaction d'un **curriculum vitae** et d'une **lettre de présentation** efficaces, préparation à l'**entrevue** et stratégies pour bien vous intégrer à une nouvelle équipe de travail dès votre arrivée en stage.
 
-Cette fondation vous permettra de bien vous présenter aux employeurs et de comprendre le contexte de gestion dans lequel vous évoluerez lors de votre stage.
+Le cours aborde ensuite les **métiers et entreprises du domaine des TI** afin que vous compreniez mieux les différents environnements de travail que vous pourriez rencontrer. Vous serez également initiés aux **notions essentielles de gestion de projet**: cycle de vie d'un projet, principaux modèles de gestion, planification de projet et du travail en équipe, ainsi qu'aux méthodes **agiles et à Scrum**, largement utilisées en entreprise. Une étude de cas portant sur des projets réels et leurs intervenants viendra mettre ces notions en pratique.
+
+Cette fondation vous permettra de bien vous présenter aux employeurs, de vous intégrer efficacement dans une équipe et de comprendre le contexte professionnel et organisationnel dans lequel vous évoluerez lors de votre stage.
 
 ## Plan de cours
 
