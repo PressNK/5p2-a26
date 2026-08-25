@@ -5,7 +5,7 @@ title: 🎓 Introduction
 
 # Préparation au stage
 
-![intro-stage](https://images.unsplash.com/photo-1521737711867-e3b97375f902?q=80&w=1200&auto=format&fit=crop)
+![intro-stage](https://metiersquebec.ca/wp-content/uploads/2025/11/Devenir-Technicien-informatique-Support-niveau-1-2-3-au-Quebec-810x400.jpg)
 
 Ce cours se donne en fin de parcours, juste avant le départ en stage. Il sert à **préparer les étudiants et étudiantes à vivre une expérience de stage réussie** en entreprise.
 
