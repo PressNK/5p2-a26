@@ -39,3 +39,14 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+### Generate a PDF from a Markdown file
+
+You can convert any `.md` file into a PDF using [md-to-pdf](https://github.com/simonhaenisch/md-to-pdf), with the shared config `md-to-pdf.config.js` (landscape layout, styled tables, etc.):
+
+```
+npx md-to-pdf "docs/your-file.md" --config-file "md-to-pdf.config.js"
+```
+
+This generates a PDF file next to the source Markdown file (e.g. `docs/your-file.pdf`).
+
