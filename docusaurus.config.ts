@@ -5,16 +5,23 @@ import path from 'path';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
+// Vercel sert le site à la racine du domaine, contrairement à GitHub Pages
+// qui le sert sous /<projectName>/. La variable VERCEL est injectée
+// automatiquement par la plateforme au moment du build.
+const isVercel = Boolean(process.env.VERCEL);
+
 const config: Config = {
   title: 'Préparation au stage',
   tagline: 'Quartier général',
   favicon: 'img/logonyancat.png',
 
   // Set the production url of your site here
-  url: 'https://pressnk.dev',
+  url: isVercel && process.env.VERCEL_URL
+    ? `https://${process.env.VERCEL_URL}`
+    : 'https://pressnk.dev',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/5p2-a26/',
+  baseUrl: isVercel ? '/' : '/5p2-a26/',
 
   trailingSlash: true,
   noIndex: true,
