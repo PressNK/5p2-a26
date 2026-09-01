@@ -2,7 +2,7 @@
 ---
 
 # (S3) Mission 1 - CV et Lettre de présentation
-![](https://img.shields.io/badge/À%20compléter%20avant%20le-8%20septembre%202026%2023%3A59-red) ![](https://img.shields.io/badge/-Individuel-orange)
+![À compléter avant le 8 septembre 2026 à 23 h 59](https://img.shields.io/badge/À%20compléter%20avant%20le-8%20septembre%202026%2023%3A59-red) ![Travail individuel](https://img.shields.io/badge/-Individuel-orange)
 
 ## Votre mission
 

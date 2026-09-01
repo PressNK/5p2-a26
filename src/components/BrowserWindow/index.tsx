@@ -23,7 +23,8 @@ export default function BrowserWindow({
 }: Props): JSX.Element {
   return (
     <div className={styles.browserWindow} style={{minHeight}}>
-      <div className={styles.browserWindowHeader}>
+      {/* Chrome purement décoratif (faux navigateur) : masqué aux technologies d'assistance */}
+      <div className={styles.browserWindowHeader} aria-hidden="true">
         <div className={styles.buttons}>
           <span className={styles.dot} style={{background: '#f25f58'}} />
           <span className={styles.dot} style={{background: '#fbbe3c'}} />

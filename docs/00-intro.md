@@ -5,7 +5,7 @@ title: 🎓 Introduction
 
 # Préparation au stage
 
-![intro-stage](https://metiersquebec.ca/wp-content/uploads/2025/11/Devenir-Technicien-informatique-Support-niveau-1-2-3-au-Quebec-810x400.jpg)
+![Une équipe de techniciens en informatique travaille sur plusieurs écrans dans un bureau, avec un drapeau du Québec et la ville de Montréal visibles par la fenêtre](https://metiersquebec.ca/wp-content/uploads/2025/11/Devenir-Technicien-informatique-Support-niveau-1-2-3-au-Quebec-810x400.jpg)
 
 Ce cours se donne en fin de parcours, juste avant le départ en stage. Il sert à **préparer les étudiants et étudiantes à vivre une expérience de stage réussie** en entreprise, en couvrant à la fois les compétences professionnelles et les connaissances techniques du milieu du travail en TI.
 
@@ -59,5 +59,5 @@ S.v.p., assurez-vous d'inclure un max d'information dans vos communications pour
 
 Merci à François St-Hilaire et Jonathan Gareau. Certaines des notions présentées sont inspirées de leurs notes de cours.
 
-## ✌️
+## Bonne session! ✌️
 

@@ -10,7 +10,7 @@ export interface SandpackPlaygroundProps extends Omit<SandpackProps, 'template'>
 
 const defaultFiles: Record<string, string> = {
   '/index.html': `<!DOCTYPE html>
-<html>
+<html lang="fr">
   <body>
     <h1>Hello, Sandpack!</h1>
   </body>
