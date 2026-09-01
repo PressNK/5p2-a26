@@ -45,7 +45,7 @@ Voici le contenu texte que vous aurez à mettre en forme dans une page HTML.
 ## Consignes
 
 1. **Fichier**. Créez-vous un dossier tel que `2_b` avec un fichier `index.html` à l'intérieur.
-  ![img](./img/boss-texte.png)
+  ![Explorateur de VS Code montrant le dossier 2_b contenant un fichier index.html sous le dossier pratique](./img/boss-texte.png)
   
 2. **Titres**  
    - `<h1>` pour "Recette de la tarte aux pommes de Ginette".  
@@ -112,7 +112,7 @@ Voici le contenu texte que vous aurez à mettre en forme dans une page HTML.
 
 <details>
  <summary>
-    Cheat Code (solution) <img style={{height: '20px', 'vertical-align': 'middle'}} src="https://imgur.com/UCEksuH.png" />
+    Cheat Code (solution) <img style={{height: '20px', 'vertical-align': 'middle'}} src="https://imgur.com/UCEksuH.png" alt="" />
  </summary>
 
   <SandpackPlayground

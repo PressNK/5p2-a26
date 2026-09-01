@@ -76,14 +76,14 @@ Le but de cette activité est de **découvrir et expérimenter avec les différe
 ## Créer un fichier `index.html` pour le tutoriel
 
 1. Créez un dossier où vous pourrez déposer le fichier `index.html` associé à cet exercice. Par exemple, j'ai créé le dossier `2_2` (pour section 2-2 des notes de cours) sous mon dossier `pratique` de `web1`.
-    ![img](./img/dossier-2-2.png)
+    ![Explorateur de VS Code montrant le dossier 2_2 créé sous le dossier pratique](./img/dossier-2-2.png)
 2. Créez un fichier `index.html` sous ce dossier   
-    ![img](./img/index.png)
+    ![Explorateur de VS Code montrant le fichier index.html sous le dossier 2_2](./img/index.png)
 
 ## Créer la page
 
 1. Dans la zone d'édition de l'éditeur et **à l'intérieur du fichier `index.html`**, tapez `html` afin de faire apparaitre automatiquement le sous-menu suivant:
-    ![img](./img/html.png)
+    ![Éditeur VS Code affichant les suggestions html, html:5 et html:xml après avoir tapé html dans index.html](./img/html.png)
 
 2. Sélectionnez `html:5`
 3. Vous devriez avoir ceci:
@@ -137,7 +137,7 @@ Il est plutôt affiché comme titre de l'onglet dans le navigateur ou encore dan
 
 Dans `Live Preview` (clic droit sur `index.html` puis `Show Preview`), vous verrez que le titre de l'onglet correspond à la balise `title`:
 
-![img](./img/title.png)
+![VS Code montrant la balise title contenant Chats célèbres du web dans le code et le même titre affiché dans l'onglet de l'aperçu](./img/title.png)
 :::
 
 ## Corps (`body`) de la page

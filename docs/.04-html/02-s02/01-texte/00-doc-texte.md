@@ -46,7 +46,7 @@ Il est plutôt affiché comme titre de l'onglet dans le navigateur ou encore dan
 
 Par exemple:
 
-![img](./img/title.png)
+![VS Code montrant la balise title contenant Chats célèbres du web dans le code et le même titre affiché dans l'onglet de l'aperçu](./img/title.png)
 :::
 
 ### Bonnes pratiques et conseil pratique

@@ -164,7 +164,7 @@ Pour afficher une infobulle au survol, ajoutez l'attribut `title`:
 C'est la première fois que vous créerez une deuxième page. L'objectif et de faire un lien de la page d'accueil (`index.html`) vers cette nouvelle page.
 
 1. **Dans le même dossier que le fichier `index.html`**, créez une page `photos.html`. Cette page devrait être au même niveau que `index.html`, de cette façon:
-    ![img](./img/structure-dossiers.png)
+    ![Explorateur de VS Code montrant les fichiers index.html et photos.html au même niveau dans le dossier 3_1](./img/structure-dossiers.png)
 2. Mettez dans ce nouveau fichier une structure de page de base pour une page de galerie photo.
     ```html
     <!DOCTYPE html>
@@ -217,7 +217,7 @@ C'est la première fois que vous créerez une deuxième page. L'objectif et de f
     :::tip
     VS Code est là pour vous aider! Du moment que vous entrez `./` dans l'attribut `href`, un menu contextuel apparaitra, vous permettant de choisir vers quelle page faire le lien.
 
-    ![img](./img/relative-link.png)
+    ![Menu de complétion de VS Code proposant les fichiers index.html et photos.html après la saisie de ./ dans l'attribut href](./img/relative-link.png)
     :::
 4. Peut-être avez-vous remarqué qu'on ne peut revenir en arrière (sauf avec le bouton "retour"). **Ajoutons un lien de retour vers l'index dans la page de photos**.
     ```html title="photos.html"

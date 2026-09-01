@@ -17,7 +17,7 @@ Créez une page "Mes sites préférés" avec le contenu suivant:
 
 <details>
  <summary>
-    Cheat Code (solution) <img style={{height: '20px', 'vertical-align': 'middle'}} src="https://imgur.com/UCEksuH.png" />
+    Cheat Code (solution) <img style={{height: '20px', 'vertical-align': 'middle'}} src="https://imgur.com/UCEksuH.png" alt="" />
  </summary>
 
   <SandpackPlayground
@@ -92,7 +92,7 @@ En effet, comme la page n'a pas beaucoup de contenu, l'effet est qu'elle rentre 
 
 <details>
  <summary>
-    Cheat Code (solution) <img style={{height: '20px', 'vertical-align': 'middle'}} src="https://imgur.com/UCEksuH.png" />
+    Cheat Code (solution) <img style={{height: '20px', 'vertical-align': 'middle'}} src="https://imgur.com/UCEksuH.png" alt="" />
  </summary>
 
   <SandpackPlayground
@@ -156,7 +156,7 @@ L'idée ici est de faire des liens vers des pages internes, le contenu n'est pas
 
 <details>
  <summary>
-    Cheat Code (solution) <img style={{height: '20px', 'vertical-align': 'middle'}} src="https://imgur.com/UCEksuH.png" />
+    Cheat Code (solution) <img style={{height: '20px', 'vertical-align': 'middle'}} src="https://imgur.com/UCEksuH.png" alt="" />
  </summary>
 
   <SandpackPlayground

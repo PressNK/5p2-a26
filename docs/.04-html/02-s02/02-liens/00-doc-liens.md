@@ -308,7 +308,7 @@ Le `./` est optionnel. En effet les deux formulations suivantes sont équivalent
 
 VS Code est là pour vous aider! Du moment que vous entrez `./` dans l'attribut `href`, un menu contextuel apparaitra, vous permettant de choisir vers quelle page faire le lien.
 
-![img](./img/relative-link.png)
+![Menu de complétion de VS Code proposant les fichiers index.html et photos.html après la saisie de ./ dans l'attribut href](./img/relative-link.png)
 :::
 
 
@@ -361,7 +361,7 @@ L'attribut `target` dans la balise `<a>` détermine **où** le lien va s'ouvrir 
 
 L'attribut `title` **affiche une infobulle** quand l'utilisateur survole le lien avec sa souris.
 
-![img](./img/title.png)
+![Infobulle affichée au survol du lien En savoir plus sur Wikipedia, indiquant Article Wikipedia sur Grumpy Cat - s'ouvre dans un nouvel onglet](./img/title.png)
 
 ### Syntaxe
 ```html

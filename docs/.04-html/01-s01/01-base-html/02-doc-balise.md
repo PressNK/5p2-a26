@@ -54,7 +54,7 @@ Par exemple, bien que nous n'ayons pas vu cette balise encore, il existe une bal
 Par exemple:
 
 ```html
-<img src="https://upload.wikimedia.org/wikipedia/en/e/ed/Nyan_cat_250px_frame.PNG" />
+<img src="https://upload.wikimedia.org/wikipedia/en/e/ed/Nyan_cat_250px_frame.PNG" alt="Nyan Cat" />
 ```
 
 Ici, on précise l'adresse de l'image que la balise doit afficher.
@@ -114,7 +114,7 @@ De plus, remarquez que lorsque les balises sont imbriquées l'une dans l'autre, 
 
 ```html
 <body>
-  <img src="https://upload.wikimedia.org/wikipedia/en/e/ed/Nyan_cat_250px_frame.PNG" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/e/ed/Nyan_cat_250px_frame.PNG" alt="Nyan Cat" />
 </body>
 ```
 
@@ -126,7 +126,7 @@ Visual Studio Code devrait faire l'essentiel de l'indentation pour vous. Vous po
 
 1. Faire un clic droit dans votre document pour faire apparaitre le menu contextuel
 2. Sélectionner `Format Document`
-    ![img](./img/Screenshot%202025-05-13%20at%207.37.10 AM.png)
+    ![Menu contextuel de VS Code ouvert sur un document HTML avec l'option Format Document encadrée](./img/Screenshot%202025-05-13%20at%207.37.10 AM.png)
 
 :::caution
 Dans le cadre du cours, il est attendu que **vos documents HTML remis soient parfaitement indentés**. Utilisez Visual Studio Code pour vous aider!
