@@ -27,7 +27,7 @@ Les champs demandés sont les suivants:
 
 <details>
     <summary>
-      Cheat Code (solution) <img style={{height: '20px', 'vertical-align': 'middle'}} src="https://imgur.com/UCEksuH.png" />
+      Cheat Code (solution) <img style={{height: '20px', 'vertical-align': 'middle'}} src="https://imgur.com/UCEksuH.png" alt="" />
     </summary>
 
     <SandpackPlayground
@@ -35,7 +35,7 @@ Les champs demandés sont les suivants:
         editorHeight={900}
         files={{
         '/index.html': `<!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">

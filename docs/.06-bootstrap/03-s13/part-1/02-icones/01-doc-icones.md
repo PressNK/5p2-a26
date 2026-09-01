@@ -94,7 +94,7 @@ Ici la balise `<i>` sert d'élément de base pour "héberger" l'icône.
 2. Utilisez la barre de recherche (ex: "heart", "home", "user")
 3. Cliquez sur l'icône qui vous intéresse
 4. Copiez le `icon font` et intégrez le tout à votre site
-    ![img](./img/icon-font.png)
+    ![Section « Icon font » de la documentation Bootstrap Icons montrant l'extrait de code de la balise i avec les classes bi et bi-heart-fill à copier](./img/icon-font.png)
 
 ## Icônes dans les boutons
 

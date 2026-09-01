@@ -6,7 +6,7 @@
 Créez une page (ex.: `horloge.html`) affichant les heures pour différentes régions du monde. Les heures peuvent être fictives, il s'agit plus d'un prétexte pour afficher dans la page plusieurs éléments et les positionner de façon adaptative.
 
 <BrowserWindow>
-  ![img](./img/horloge-base.png)
+  ![Page « Horloge mondiale » affichant l'heure de douze villes réparties en trois colonnes](./img/horloge-base.png)
 </BrowserWindow>
 
 ## Objectifs

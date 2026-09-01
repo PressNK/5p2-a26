@@ -3,7 +3,7 @@
 
 # 4 - Un éditeur (IDE) pour créer des pages web
 
-![img](./img/chats-web.png)
+![Capture d'écran de Visual Studio Code affichant le code HTML de la page « Chats célèbres du web » avec son aperçu dans un panneau de l'éditeur](./img/chats-web.png)
 
 Pour créer des pages Web et des documents HTML, il nous faudra un éditeur! Dans le contexte de développement logiciel, on utilise des applications spécialisées dans l'écriture de code. On appel ces applications des IDE (Integrater Development Environment).
 
@@ -29,26 +29,26 @@ Dans ce cours, nous utiliserons VS Code pour créer les pages web.
 
 1. Rendez-vous, à l'aide de votre navigateur, sur la page suivante: https://code.visualstudio.com/Download
 2. Appuyez sur le bouton `Windows` ou celui correspondant à votre système d'exploitation (ex.: Mac) pour télécharger l'installateur.
-    ![img](./img/vscode/01-download.png)
+    ![Capture d'écran de la page de téléchargement de Visual Studio Code avec le bouton Windows encerclé](./img/vscode/01-download.png)
 3. Ouvrez l'installateur à partir de l'endroit où il a été sauvegardé (probablement le dossier `Téléchargements`)
-    ![img](./img/vscode/02-download-folder.png)
+    ![Capture d'écran du dossier Downloads dans l'Explorateur Windows avec l'installateur VSCodeUserSetup sélectionné](./img/vscode/02-download-folder.png)
 4. Suivez les étapes pour installer le logiciel. Assurez-vous de cocher les 4 options suivantes à cette étape:
-    ![img](./img/vscode/03-tick-options.png)
+    ![Capture d'écran de l'étape « Select Additional Tasks » de l'installateur de Visual Studio Code avec les 4 options à cocher encerclées](./img/vscode/03-tick-options.png)
 5. Vous pouvez appuyer sur `Finish`, ce qui devrait lancer automatiquement Visual Studio Code.
-    ![img](./img/vscode/04-finish.png)
+    ![Capture d'écran de la dernière étape de l'installateur de Visual Studio Code avec le bouton « Finish » encerclé](./img/vscode/04-finish.png)
 
 ## Configuration Visual Studio Code
 
 ### Choisir un thème
 
 1. Lors du premier lancement de VS Code, **appuyez sur l'option `Choose your theme`**.
-    ![img](./img/vscode/config/01-choose-theme.png)
+    ![Capture d'écran de l'écran de démarrage de VS Code avec l'option « Choose your theme » encerclée](./img/vscode/config/01-choose-theme.png)
 
 2. **Sélectionnez un thème** qui vous convient. Les développeurs tendent à préférer les options "dark" puisque cela est plus reposant pour les yeux. **`Dark Modern` est généralement un bon choix**.
-    ![img](./img/vscode/config/02-choose-theme2.png)
+    ![Capture d'écran du choix de thème dans VS Code présentant les aperçus Dark Modern, Light Modern, Dark High Contrast et Light High Contrast](./img/vscode/config/02-choose-theme2.png)
 
 3. Une fois le thème choisi, **fermez l'onglet de démarrage**
-    ![img](./img/vscode/config/03-close.png)
+    ![Capture d'écran de l'onglet « Walkthrough: Setup VS Code » avec son bouton de fermeture encerclé](./img/vscode/config/03-close.png)
 
 ### Installer l'extension `Live Preview`
 
@@ -61,13 +61,13 @@ Il n'est pas possible de faire le rafraichissement automatique directement dans 
 :::
 
 1. **Ouvrez l'onglet `Extensions`**
-    ![img](./img/vscode/livepreview/01-extensions.png)
+    ![Capture d'écran de VS Code avec l'icône de l'onglet Extensions encerclée dans la barre latérale gauche](./img/vscode/livepreview/01-extensions.png)
 
 2. Faites une **recherche pour `Live Preview`** dans la barre de recherche
-    ![img](./img/vscode/livepreview/02-recherche.png)
+    ![Capture d'écran de l'onglet Extensions de VS Code avec la recherche « Live Preview » encerclée dans la barre de recherche](./img/vscode/livepreview/02-recherche.png)
 
 3. **Installez l'extension** à l'aide du bouton `Install`
-    ![img](./img/vscode/livepreview/03-live-preview.png)
+    ![Capture d'écran de la page de l'extension Live Preview de Microsoft avec le bouton « Install » encerclé](./img/vscode/livepreview/03-live-preview.png)
 
 ### Installer l'extension `HTMLHint`
 
@@ -77,9 +77,9 @@ Pour analyser votre code HTML et vérifier sa validité, l'extension `HTMLHint` 
     :::caution
     Assurez-vous de choisir l'extension qui n'est pas rayée, ces dernières ne sont plus supportées!
     :::
-    ![img](./img/vscode/htmlhint/01-htmlhint.png)
+    ![Capture d'écran des résultats de recherche HTMLHint dans les extensions de VS Code, avec l'extension HTMLHint non rayée et son bouton « Install » encerclés](./img/vscode/htmlhint/01-htmlhint.png)
 2. Appuyez sur `Trust Publisher & Install` lorsque demandé
-    ![img](./img/vscode/htmlhint/02-trust.png)
+    ![Boîte de dialogue de VS Code demandant si l'on fait confiance à l'éditeur HTMLHint, avec le bouton « Trust Publisher & Install » encerclé](./img/vscode/htmlhint/02-trust.png)
 
 ## Rendez-vous au niveau 1!
 

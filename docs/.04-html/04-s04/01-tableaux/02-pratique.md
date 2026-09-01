@@ -39,7 +39,7 @@ Vous devez créer un tableau comparant les produits suivants:
 - Consommation: 263W
 - Performance: Bonne
 
-![img](./img/table-gpu.png)
+![Tableau HTML avec bordures intitulé « Comparaison de cartes graphiques », présentant les colonnes GPU, VRAM, Prix, Consommation et Performance pour cinq modèles](./img/table-gpu.png)
 
 ## Consignes
 
@@ -52,7 +52,7 @@ Vous devez créer un tableau comparant les produits suivants:
 
 <details>
  <summary>
-    Cheat Code (solution) <img style={{height: '20px', 'vertical-align': 'middle'}} src="https://imgur.com/UCEksuH.png" />
+    Cheat Code (solution) <img style={{height: '20px', 'vertical-align': 'middle'}} src="https://imgur.com/UCEksuH.png" alt="" />
  </summary>
 
   <SandpackPlayground
@@ -60,7 +60,7 @@ Vous devez créer un tableau comparant les produits suivants:
       editorHeight={900}
       files={{
       '/index.html': `<!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">

@@ -11,9 +11,9 @@ Avec cette activité, nous allons explorer les bases de Bootstrap et intégrer c
 
 1. Allez sur le site officiel  [https://getbootstrap.com](https://getbootstrap.com)
 2. Cliquez sur le bouton **Download**
-    ![img](./img/download-bootstrap.png)
+    ![Page d'accueil de Bootstrap avec le lien Download encerclé sous la commande npm](./img/download-bootstrap.png)
 3. Téléchargez la version **Compiled CSS and JS**
-    ![img](./img/compiled.png)
+    ![Section « Compiled CSS and JS » de la page de téléchargement de Bootstrap avec son bouton Download](./img/compiled.png)
 4. Décompressez le fichier ZIP téléchargé
 
 ### Étape 2: Organiser vos fichiers

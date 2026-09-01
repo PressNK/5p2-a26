@@ -14,7 +14,7 @@ Vous devez trouver comment utiliser ces composants dans la documentation officie
 :::
 
 <BrowserWindow>
-  ![img](./img/faq.png)
+  ![Page « Aide - Mon Jeu Greenfoot » avec une FAQ en accordéon de quatre questions et trois boutons d'aide rapide : Commandes, Astuces et Support](./img/faq.png)
 </BrowserWindow>
 
 ## Kit de départ

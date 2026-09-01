@@ -15,7 +15,7 @@ Utilisez les pseudo-classes :link, :visited, :hover et :active pour styliser les
 
 ```html title="index.html"
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -59,7 +59,7 @@ Pour vérifier que votre code fonctionne:
 
 <details>
     <summary>
-      Cheat Code (solution) <img style={{height: '20px', 'vertical-align': 'middle'}} src="https://imgur.com/UCEksuH.png" />
+      Cheat Code (solution) <img style={{height: '20px', 'vertical-align': 'middle'}} src="https://imgur.com/UCEksuH.png" alt="" />
     </summary>
 
     <SandpackPlayground

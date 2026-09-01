@@ -69,7 +69,7 @@ L'utilisation de ces balises présente plusieurs avantages:
 
 Représente l'en-tête d'une page ou d'une section. Contiens généralement le titre, le logo et la navigation principale.
 
-![img](./img/header.png)
+![En-tête du site du Cégep de Drummondville, encadré en jaune, contenant le logo et le menu de navigation](./img/header.png)
 
 ```html
 <header>
@@ -92,7 +92,7 @@ Représente l'en-tête d'une page ou d'une section. Contiens généralement le t
 
 Contiens les liens de navigation principaux du site.
 
-![img](./img/nav.png)
+![Barre de navigation du site de Nintendo, encadrée en jaune, avec les liens Explore, Shop et Support](./img/nav.png)
 
 ```html
 <nav>
@@ -115,7 +115,7 @@ Contiens les liens de navigation principaux du site.
 
 Identifie le contenu principal unique de la page. **Il ne doit y en avoir qu'un seul par page.**
 
-![img](./img/main.png)
+![Page d'accueil de Nintendo dont la zone de contenu principal, présentant la Nintendo Switch 2, est encadrée en jaune](./img/main.png)
 
 ```html
 <main>
@@ -138,7 +138,7 @@ Identifie le contenu principal unique de la page. **Il ne doit y en avoir qu'un 
 
 Représente un contenu indépendant, c'est-à-dire qu'il n'est pas directement lié à aucun autre élément.
 
-![img](./img/article.png)
+![Fil Reddit où chaque publication est encadrée en jaune pour illustrer un contenu autonome](./img/article.png)
 
 ```html
 <article>
@@ -205,7 +205,7 @@ Groupe du contenu thématiquement lié, généralement avec un titre.
 
 Contenu indirectement lié au contenu principal (sidebar, encadrés, publicités).
 
-![img](./img/aside.png)
+![Article Wikipédia sur Grumpy Cat dont l'encadré latéral contenant un mème est mis en évidence en jaune](./img/aside.png)
 
 ```html
 <aside>
@@ -236,7 +236,7 @@ Contenu indirectement lié au contenu principal (sidebar, encadrés, publicités
 
 Contiens les informations de fin de page ou section (copyright, liens, contact).
 
-![img](./img/nintendo.png)
+![Pied de page du site de Nintendo, encadré en jaune, contenant des colonnes de liens, les réseaux sociaux et la mention de droits d'auteur](./img/nintendo.png)
 
 ```html
 <footer>
@@ -374,7 +374,7 @@ Par exemple, avec W3C, si nous tentons de valider une page qui présente des lac
 
 L'outil vous indiquera les problèmes dans votre document HTML.
 
-![img](./img/w3c-incomplete-doc.png)
+![Validateur W3C affichant trois erreurs: balise header fermée avec des éléments encore ouverts, élément nav non fermé et plus d'un élément main visible](./img/w3c-incomplete-doc.png)
 
 ## À retenir
 - Utilisez la sémantique appropriée pour chaque section

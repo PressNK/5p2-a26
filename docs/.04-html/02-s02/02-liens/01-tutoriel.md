@@ -9,7 +9,7 @@ Vous pouvez **réutiliser comme base** le contenu HTML suivant. Créez un dossie
 
 ```html
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -250,7 +250,7 @@ C'est la première fois que vous créerez une deuxième page. L'objectif et de f
 
 ```html title="index.html"
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">

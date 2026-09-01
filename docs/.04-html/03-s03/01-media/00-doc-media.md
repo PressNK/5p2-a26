@@ -19,12 +19,12 @@ Plusieurs formats d'image existent avec chacun leurs avantages et leurs inconvé
 
 Voici une petite comparaison côte à côte d'images en trois formats différents: png, jpg et webp.
 
-![img](./img/webp-comparison.jpg)
+![Comparaison côte à côte de la même image en trois formats: 483 Ko en JPG, 1,4 Mo en PNG et 98 Ko en WebP](./img/webp-comparison.jpg)
 
 - `jpeg` est souvent utilisé pour les grandes images puisque le format avec compression permet d'obtenir une taille de fichier plus petite et une qualité d'image raisonnable. En effet, `jpeg` est un format d'image avec compressions, ce qui veut dire qu'il y a une perte de qualité.
 - `png` est un format sans compression, donc il n'y a pas de perte de qualité! Cependant, le poids des fichiers `png` est plus grand. On les utilise régulièrement pour de petites images comme des `logo`, par exemple.
 - `webp` est un format relativement nouveau qui offre le meilleur des deux mondes. Il est disponible avec ou sans compression et son efficacité est comparable à `jpeg` dans sa forme compressée. De plus, il supporte la transparence, tout comme `png`! L'enjeu est son support par les navigateurs, quoi que cela n'est presque plus tellement un problème. **Tous les navigateurs modernes le supporte**, mais les plus vieilles versions ne sont pas compatibles ou offrent un support partiel.
-    ![img](./img/webp-support.png)
+    ![Tableau de compatibilité du format WebP montrant un support complet dans les versions récentes de tous les navigateurs modernes](./img/webp-support.png)
 
 ### Les images vectorielles `svg`
 
@@ -208,13 +208,13 @@ Cela est très utile puisque ça vous permet d'ajouter facilement du contenu mul
 
 Pour intégrer une vidéo YouTube, vous pouvez vous rendre sur la vidéo d'intérêt et:
 1. Appuyez sur l'icône de partage
-    ![img](./img/yt-share.png)
+    ![Bouton « Share » mis en évidence sous une vidéo YouTube](./img/yt-share.png)
 
 2. Appuyez sur l'icône pour intégrer le contenu
-    ![img](./img/yt-embed.png)
+    ![Fenêtre de partage YouTube avec l'option « Embed » mise en évidence](./img/yt-embed.png)
 
 3. Copiez le code `iframe` fourni pour intégrer la vidéo
-    ![img](./img/yt-copy.png)
+    ![Panneau « Embed Video » de YouTube affichant le code iframe et le bouton « Copy »](./img/yt-copy.png)
 
 
 Cela vous donnera un code similaire à celui-ci:

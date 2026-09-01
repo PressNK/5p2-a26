@@ -87,7 +87,7 @@ Vous devez améliorer cette page en utilisant **uniquement des classes utilitair
 
 <details>
     <summary>
-      Cheat Code (solution) <img style={{height: '20px', 'vertical-align': 'middle'}} src="https://imgur.com/UCEksuH.png" />
+      Cheat Code (solution) <img style={{height: '20px', 'vertical-align': 'middle'}} src="https://imgur.com/UCEksuH.png" alt="" />
     </summary>
 
     Votre résultat pourrait être différent, j'ai pris quelques libertés sur les couleurs.

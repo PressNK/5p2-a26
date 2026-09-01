@@ -11,7 +11,7 @@ Vous devez utiliser les bonnes classes Bootstrap pour styliser chaque type de ch
 :::
 
 <BrowserWindow>
-    ![img](./img/form.png)
+    ![Formulaire « Rapport de bug » en thème sombre avec champs nom, courriel, liste déroulante du type de bug, boutons radio de sévérité, zone de description et bouton Envoyer le rapport](./img/form.png)
 </BrowserWindow>
 
 ## Kit de départ
@@ -76,7 +76,7 @@ Créez un formulaire avec les champs suivants:
 
 <details>
     <summary>
-      Cheat Code (solution) <img style={{height: '20px', 'vertical-align': 'middle'}} src="https://imgur.com/UCEksuH.png" />
+      Cheat Code (solution) <img style={{height: '20px', 'vertical-align': 'middle'}} src="https://imgur.com/UCEksuH.png" alt="" />
     </summary>
 
     Votre résultat pourrait être différent, l'important est d'avoir utilisé les bonnes classes Bootstrap pour chaque type de champ.

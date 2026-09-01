@@ -156,7 +156,7 @@ footer {
 
 Voici les images utilisées.
 
-![img](./img/nyan-halloween.png)
-![img](./img/nyan-noel.png)
-![img](./img/nyan-original.png)
-![img](./img/nyan-tac.png)
+![Nyan Cat version Halloween : chat-citrouille orange laissant une traînée de flammes au-dessus d'un champ de citrouilles](./img/nyan-halloween.png)
+![Nyan Cat version Noël : chat gris coiffé d'une tuque de père Noël, au corps de cadeau, laissant une traînée aux couleurs de Noël](./img/nyan-noel.png)
+![Nyan Cat original : chat gris au corps de Pop-Tart rose laissant une traînée arc-en-ciel dans un ciel étoilé](./img/nyan-original.png)
+![Tac Nayn : chat noir aux yeux rouges, au corps de gaufre, laissant une traînée grise](./img/nyan-tac.png)

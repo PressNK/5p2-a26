@@ -223,7 +223,7 @@ Nous venons de voir la base de l'élément `input`, c'est-à-dire en l'utilisant
 :::info
 L'utilité par rapport à un champ texte conventionnel est une validation en provenance du navigateur lorsqu'on essaie de soumettre un formulaire ayant un champ courriel pour lequel le courriel n'est pas dans un format valide. Par exemple:
 
-![img](./img/warning-email.png)
+![Message du navigateur « Please include an '@' in the email address. » affiché sous un champ courriel contenant une valeur invalide](./img/warning-email.png)
 :::
 
 #### `type="password"` - Mot de passe
@@ -367,7 +367,7 @@ Pour valider qu'un champ doit être rempli avant de soumettre le formulaire, il 
 
 Cela aura pour effet de déclencer un message d'erreur si les champs ne sont pas remplis:
 
-![img](./img/validation.png)
+![Message du navigateur « Please fill out this field. » affiché sous le champ Prénom laissé vide lors de la soumission du formulaire](./img/validation.png)
 
 ## Bonnes Pratiques
 

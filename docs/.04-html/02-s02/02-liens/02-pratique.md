@@ -164,7 +164,7 @@ L'idée ici est de faire des liens vers des pages internes, le contenu n'est pas
       editorHeight={900}
       files={{
       '/index.html': `<!DOCTYPE html>
-  <html lang="en">
+  <html lang="fr">
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -187,7 +187,7 @@ L'idée ici est de faire des liens vers des pages internes, le contenu n'est pas
   </body>
   </html>`,
   'a-propos.html': `<!DOCTYPE html>
-  <html lang="en">
+  <html lang="fr">
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -199,7 +199,7 @@ L'idée ici est de faire des liens vers des pages internes, le contenu n'est pas
   </body>
   </html>`,
   'contact.html': `<!DOCTYPE html>
-  <html lang="en">
+  <html lang="fr">
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -211,7 +211,7 @@ L'idée ici est de faire des liens vers des pages internes, le contenu n'est pas
   </body>
   </html>`,
   'projets.html': `<!DOCTYPE html>
-  <html lang="en">
+  <html lang="fr">
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">

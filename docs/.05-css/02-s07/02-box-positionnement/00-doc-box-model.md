@@ -8,7 +8,7 @@
 ### Concept de base
 Chaque élément HTML est représenté comme une boîte rectangulaire composée de 4 zones:
 
-![img](./img/box-model.png)
+![Schéma du modèle de boîte CSS montrant les quatre zones imbriquées : margin, border, padding et content](./img/box-model.png)
 
 ### Les 4 composantes du modèle de boîte
 

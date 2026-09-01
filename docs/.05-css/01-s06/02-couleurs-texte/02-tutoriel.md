@@ -72,9 +72,9 @@ Pour cet exercice, ajoutons une feuille de style à une page HTML et amusons-nou
 **Ajoutons un fichier `CSS`** à notre structure de fichier pour y contenir les styles du site web.
 
 1. **Créez un dossier `styles`** au même niveau que votre fichier `index.html`
-    ![img](./img/styles-folder.png)
+    ![Arborescence de fichiers dans VS Code montrant le dossier styles au même niveau que le fichier index.html](./img/styles-folder.png)
 2. **Ajoutez un fichier `app.css`** sous le dossier `styles`
-    ![img](./img/appcss.png)
+    ![Arborescence de fichiers dans VS Code montrant le fichier app.css dans le dossier styles](./img/appcss.png)
 
     :::info
     Le fichier a été nommé `app.css` comme dans "application", soit le style de l'application.

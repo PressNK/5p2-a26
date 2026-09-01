@@ -19,7 +19,7 @@ Vous devez **seulement ajouter les icônes**, tout le reste du HTML est déjà f
 Vous avez une page de **profil utilisateur** pour votre jeu. L'interface est construite, mais il manque les icônes pour la rendre plus visuelle.
 
 <BrowserWindow>
-    ![img](./img/profil.png)
+    ![Page « Profil du joueur » en thème sombre avec badges Niveau 12 et En ligne, boutons de menu avec icônes, cartes de statistiques (parties jouées, victoires, points) et liste d'accomplissements](./img/profil.png)
 </BrowserWindow>
 
 ## Exigences
@@ -42,7 +42,7 @@ Vous pouvez utiliser le HTML de départ suivant qui contient déjà Bootstrap et
 2. Utilisez la barre de recherche (ex: "heart", "home", "user")
 3. Cliquez sur l'icône qui vous intéresse
 4. Copiez le `icon font` et intégrez le tout à votre site
-    ![img](./img/icon-font.png)
+    ![Section « Icon font » de la documentation Bootstrap Icons montrant l'extrait de code de la balise i avec les classes bi et bi-heart-fill à copier](./img/icon-font.png)
 
 ### Mots-clés utiles
 

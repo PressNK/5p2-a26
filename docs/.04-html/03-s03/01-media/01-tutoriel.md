@@ -29,7 +29,7 @@ Nous allons créer une page simple intégrant des images et des vidéos en prove
   <p>Tardar Sauce, plus connue sous le nom de Grumpy Cat, est devenue célèbre grâce à son expression perpétuellement grincheuse. Cette chatte exceptionnelle a conquis le cœur de millions d'internautes entre 2012 et 2019.</p>
 
   <figure>
-    <img src="https://imgur.com/SvJWZRt.png" height="300" />
+    <img src="https://imgur.com/SvJWZRt.png" alt="Diagramme à bandes comparant les revenus de Grumpy Cat à ceux de célébrités" height="300" />
     <figcaption>Revenues estimés générés par Grumpy Cat comparativement à des célébrités.</figcaption>
   </figure>
    
@@ -69,13 +69,13 @@ Premièrement, créez une nouvelle page HTML (`index.html`) dans son propre doss
 
 Comme nous devrons ajouter des images à la page, créez un dossier `images` **à l'intérieur du dossier de votre projet**. Par exemple:
 
-![img](./img/tutoriel/structure.png)
+![Arborescence du projet dans VS Code: un dossier images et un fichier index.html](./img/tutoriel/structure.png)
 
 ## Ajouter une première image
 
 Pour notre première image et premier bloc de contenu, on se concentrera sur Grumpy Cat. Voici une image de Grumpy Cat:
 
-![img](./img/tutoriel/grumpy-cat.jpg)
+![Grumpy Cat, chatte au pelage brun et blanc à l'air grincheux, tenue dans les bras d'une personne](./img/tutoriel/grumpy-cat.jpg)
 
 **Vous pouvez faire un `clic droit` et `Enregistrer sous...`** afin d'enregistrer l'image sur votre ordinateur.
 
@@ -145,7 +145,7 @@ Si vous jugez que la taille de l'image n'est pas adéquate, il est possible de m
 
 ... mais oups! Vous aurez quelque chose comme ceci:
 
-![img](./img/tutoriel/stretched.png)
+![Page Web où la photo de Grumpy Cat apparaît déformée, étirée en largeur](./img/tutoriel/stretched.png)
 
 :::caution
 On vient de forcer une résolution de 300x600 à l'image, alors que ce n'est pas sa résolution native! C'est ce qui fait en sorte qu'elle est déformée
@@ -161,13 +161,13 @@ Afin d'éviter la déformation de l'image, il est possible de ne préciser qu'un
 
 1. Pour intégrer une vidéo YouTube, vous pouvez vous rendre sur la vidéo d'intérêt, par exemple https://www.youtube.com/watch?v=INscMGmhmX4 pour Grumpy Cat et:
    1. Appuyez sur l'icône de partage
-       ![img](./img/yt-share.png)
+       ![Bouton « Share » mis en évidence sous une vidéo YouTube](./img/yt-share.png)
 
    2. Appuyez sur l'icône pour intégrer le contenu
-       ![img](./img/yt-embed.png)
+       ![Fenêtre de partage YouTube avec l'option « Embed » mise en évidence](./img/yt-embed.png)
 
    3. Copiez le code `iframe` fourni pour intégrer la vidéo
-       ![img](./img/yt-copy.png)
+       ![Panneau « Embed Video » de YouTube affichant le code iframe et le bouton « Copy »](./img/yt-copy.png)
     4. Vous obtiendrez un code similaire à celui-ci:
         ```html
         <iframe width="560" height="315" src="https://www.youtube.com/embed/INscMGmhmX4?si=-qw5a8ei3M7DPV8C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -198,7 +198,7 @@ L'utilisation de la balise `figure` est pertinente lorsqu'on veut ajouter un con
 Par exemple, il pourrait être intéressant de mettre un graphique de statistiques de revenu générées pour Grumpy Cat.
 
 1. Utilisez l'image suivante et déposez-la dans le dossier `images` de votre site.
-    ![img](./img/tutoriel/grumpy-cat-revenues.png)
+    ![Diagramme à bandes des revenus en millions de dollars: Beyoncé 115, Grumpy Cat 99,5, Sandra Bullock 51, Sofia Vergara 37 et Maria Sharapova 24,4](./img/tutoriel/grumpy-cat-revenues.png)
 2. On peut ensuite ajouter l'image à l'intérieur d'un élément `figure` avec `caption`
     ```html
     <body>
@@ -213,7 +213,7 @@ Par exemple, il pourrait être intéressant de mettre un graphique de statistiqu
 
       //highlight-start
       <figure>
-        <img src="images/grumpy-cat-revenues.png" height="300" />
+        <img src="images/grumpy-cat-revenues.png" alt="Diagramme à bandes comparant les revenus de Grumpy Cat à ceux de célébrités" height="300" />
         <figcaption>Revenues estimés générés par Grumpy Cat comparativement à des célébrités.</figcaption>
       </figure>
       //highlight-end
@@ -229,7 +229,7 @@ Parfois, vos images ont besoin d'une légende ou d'une explication. La balise `<
 
 ```html
 <figure>
-  <img src="images/grumpy-cat-revenues.png" height="300" />
+  <img src="images/grumpy-cat-revenues.png" alt="Diagramme à bandes comparant les revenus de Grumpy Cat à ceux de célébrités" height="300" />
   <figcaption>Revenues estimés générés par Grumpy Cat comparativement à des célébrités.</figcaption>
 </figure>
 ```

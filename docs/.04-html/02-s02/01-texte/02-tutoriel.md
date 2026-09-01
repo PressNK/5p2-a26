@@ -11,7 +11,7 @@ Pour cette activité, **nous allons recréer ensemble la page web de la section 
     editorHeight={600}
     files={{
     '/index.html': `<!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -117,7 +117,7 @@ Ensuite, donnons un titre à la page via la balise `title`:
 
 ```html
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -242,7 +242,7 @@ Vous devriez maintenant avoir ceci:
     editorHeight={400}
     files={{
     '/index.html': `<!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -340,7 +340,7 @@ Maintenant, on voudra **ajouter la liste des chats célèbres du web**. Pour ce 
     editorHeight={600}
     files={{
     '/index.html': `<!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -500,7 +500,7 @@ Chaque élément est dans une balise `li`, tout comme lorsque vous utilisez `ol`
         editorHeight={900}
         files={{
         '/index.html': `<!DOCTYPE html>
-    <html lang="en">
+    <html lang="fr">
     <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">

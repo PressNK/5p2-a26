@@ -23,7 +23,7 @@ Le nombre 12 est divisible par 1, 2, 3, 4, 6 et 12, ce qui offre beaucoup de fle
 - 4 éléments côte à côte → 3 colonnes chacun (3 + 3 + 3 + 3 = 12)
 :::
 
-![img](./img/cols.png)
+![Douze colonnes verticales de largeur égale numérotées de 1 à 12, illustrant la grille Bootstrap](./img/cols.png)
 
 <SandpackPlayground
   template="static"

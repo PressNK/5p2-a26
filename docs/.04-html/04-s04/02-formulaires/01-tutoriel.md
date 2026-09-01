@@ -11,7 +11,7 @@ Créons un formulaire simple permettant de s'inscrire à une activité. Le formu
     editorHeight={700}
     files={{
     '/index.html': `<!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -53,7 +53,7 @@ Tout formulaire commence par une balise `<form>`: ajoutez cette balise à votre 
 2. Ajoutez la balise `<form>` pour contenir le formulaire
   ```html
   <!DOCTYPE html>
-  <html lang="en">
+  <html lang="fr">
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -160,7 +160,7 @@ De plus, ajoutez un `br` à la fin du `label` pour que le champ et le libellé s
     template="static"
     files={{
     '/index.html': `<!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -202,7 +202,7 @@ On peut procéder exactement de la même façon pour ajouter un champ nom:
 :::danger
 Il est important de bien changer le `id`. Si vous faites simplement un copier coller et que vous utilisez le `id="prenom` pour le champ `nom`, vous aurez un avertissement dans VS Code:
 
-![img](./img/warning-id.png)
+![Avertissement de VS Code « The id value prenom must be unique » affiché sur un champ input dont le id est dupliqué](./img/warning-id.png)
 
 Les `id` doivent être uniques dans la page, c'est pourquoi vous recevrez cet avertissement.
 :::
@@ -297,7 +297,7 @@ Ajoutez l'attribut `required` aux champs `prenom`, `nom` et `courriel` afin de l
 
 Cela aura pour effet de déclencher un message d'erreur si les champs ne sont pas remplis:
 
-![img](./img/validation.png)
+![Message du navigateur « Please fill out this field. » affiché sous le champ Prénom laissé vide lors de la soumission du formulaire](./img/validation.png)
 
 ```html
 <form>
@@ -335,7 +335,7 @@ Vous devriez avoir ceci comme résultat:
     editorHeight={700}
     files={{
     '/index.html': `<!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">

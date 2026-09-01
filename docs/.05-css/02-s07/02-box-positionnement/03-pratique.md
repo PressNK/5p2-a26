@@ -116,7 +116,7 @@ Reproduisez le plus fidèlement possible le visuel suivant:
 
 <details>
     <summary>
-      Cheat Code (solution) <img style={{height: '20px', 'vertical-align': 'middle'}} src="https://imgur.com/UCEksuH.png" />
+      Cheat Code (solution) <img style={{height: '20px', 'vertical-align': 'middle'}} src="https://imgur.com/UCEksuH.png" alt="" />
     </summary>
 
     <SandpackPlayground

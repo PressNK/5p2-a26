@@ -116,7 +116,7 @@ button {
 Reproduisez le plus fidèlement possible le visuel suivant:
 
 <BrowserWindow url="index.html">
-    ![img](./img/boss-prix.png)
+    ![Page « Choisissez votre forfait » montrant trois cartes de prix côte à côte : Essentiel à 49 $, Pro à 119 $ et Entreprise à 499 $, chacune avec un bouton Choisir aligné en bas](./img/boss-prix.png)
 </BrowserWindow>
 
 ## Instructions
@@ -137,7 +137,7 @@ Une propriété Flexbox permet de faire "pousser" un élément pour occuper l'es
 
 <details>
     <summary>
-      Cheat Code (solution) <img style={{height: '20px', 'vertical-align': 'middle'}} src="https://imgur.com/UCEksuH.png" />
+      Cheat Code (solution) <img style={{height: '20px', 'vertical-align': 'middle'}} src="https://imgur.com/UCEksuH.png" alt="" />
     </summary>
 
     <SandpackPlayground

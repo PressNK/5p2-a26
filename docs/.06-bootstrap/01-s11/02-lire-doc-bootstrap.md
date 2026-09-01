@@ -19,7 +19,7 @@ Assurez-vous d'être sur la **version 5.3** (ou la version que vous utilisez). L
 
 La documentation Bootstrap est organisée en grandes sections dans le menu de gauche:
 
-![img](./img/bootstrap-menu.png)
+![Menu de navigation de la documentation Bootstrap montrant les sections Layout (Breakpoints, Containers, Grid, etc.) et Content (Reboot, Typography, Tables, etc.)](./img/bootstrap-menu.png)
 
 ### 📚 Sections principales
 
@@ -70,13 +70,13 @@ En haut de page, vous verrez :
 - Une courte description du composant
 - Un **exemple visuel** interactif (ce à quoi ça ressemble)
 
-![img](./img/cards-doc.png)
+![Page Cards de la documentation Bootstrap montrant la description du composant suivie d'un exemple visuel](./img/cards-doc.png)
 
 ### 2. Le code HTML
 
 Juste en dessous de chaque exemple, il y a une **boîte grise** contenant le code HTML complet.
 
-![img](./img/cards-doc-image.png)
+![Section Images de la page Cards montrant l'exemple visuel d'une carte suivi de la boîte grise contenant son code HTML](./img/cards-doc-image.png)
 
 ```html
 <div class="card" style="width: 18rem;">
@@ -89,7 +89,7 @@ Juste en dessous de chaque exemple, il y a une **boîte grise** contenant le cod
 
 :::info Bouton "Copy"
 Utilisez le bouton `Copy to clipboard` pour copier l'exemple et l'utiliser dans votre projet!
-![img](./img/copy-clipboard.png)
+![Boîte de code HTML de la documentation Bootstrap avec l'infobulle Copy to clipboard au-dessus du bouton de copie](./img/copy-clipboard.png)
 :::
 
 ### 3. Les variations
@@ -110,18 +110,18 @@ Vers le bas de la page, vous trouverez souvent
 - Options de couleurs (primary, success, danger, etc.)
 - Tailles disponibles (sm, lg, etc.)
 
-![img](./img/styles-component.png)
+![Section « Background and color » de la page Cards montrant des cartes colorées primary, secondary et success](./img/styles-component.png)
 
 ## Comment approcher votre recherche
 
 1. **Partez de votre objectif**. Par exemple: "je veux appliquer un style à un tableau (`<table>`)... est-ce que Bootstrap fournit des styles pour cela?
 2. Utilisez la recherche ou le menu de gauche pour trouver une catégorie qui se rapproche de votre objectif
-    ![img](./img/tables-menu.png)
+    ![Menu de navigation de la documentation Bootstrap avec l'entrée Tables sélectionnée sous la section Content](./img/tables-menu.png)
 3. Généralement, vous pourrez trouver un exemple qu'il vous sera possible de copier à l'aide du bouton `Copy to clipboard`
-    ![img](./img/copy-clipboard.png)
+    ![Boîte de code HTML de la documentation Bootstrap avec l'infobulle Copy to clipboard au-dessus du bouton de copie](./img/copy-clipboard.png)
 4. Modifiez le contenu de l'exemple pour votre besoin
 5. Appliquez les modifications désirées à l'aide des variations proposées. Par exemple dans le cas d'un tableau, si on voulait des rangées alternées en couleur, on pourrait ajouter la classe `table-striped`.
-    ![img](./img/table-striped.png)
+    ![Section « Striped rows » de la documentation montrant un tableau aux rangées alternées et le code utilisant la classe table-striped](./img/table-striped.png)
 
 ## Stratégies de recherche efficaces
 
@@ -136,7 +136,7 @@ Si vous savez ce que vous cherchez:
 
 La barre de recherche dans la navigation principale est très utile pour effectuer une recherche dans toute la documentation. Par exemple, recherche `table` vous retournera instantanément les résultats pertinents sur les styles qu'on peut ajouter aux éléments `table`
 
-![img](./img/search-bar.png)
+![Barre de navigation du site Bootstrap avec son champ de recherche](./img/search-bar.png)
 
 ### 2. Utiliser Ctrl+F (Recherche dans la page)
 

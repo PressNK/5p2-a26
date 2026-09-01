@@ -520,12 +520,12 @@ Validons le HTML que nous venons de générer avec l'outil W3C.
 1. Visitez https://validator.w3.org/#validate_by_input
 2. Copiez votre HTML
 3. Collez-le dans la boîte de validation
-    ![img](./img/w3c.png)
+    ![Onglet « Validate by Direct Input » du validateur W3C avec le code HTML collé dans la boîte de validation](./img/w3c.png)
 4. Appuyez sur `Check`
 
 Résultat, 1 seule erreur de mon côté:
 
-![img!](./img/w3c.png)
+![Validateur W3C avec le code HTML soumis dans la boîte de validation directe et le bouton Check](./img/w3c.png)
 
 L'erreur est liée à la vidéo YouTube, nous pouvons ignorer, ce n'est pas du HTML que nous avons écrit, il nous est fourni par YouTube.
 

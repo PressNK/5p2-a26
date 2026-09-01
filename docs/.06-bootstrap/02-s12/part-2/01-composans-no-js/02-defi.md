@@ -21,7 +21,7 @@ Copiez les exemples, adaptez-les à votre contenu, et assemblez le tout!
 :::
 
 <BrowserWindow>
-    ![img](./img/dashboard-browser.png)
+    ![Tableau de bord « Mon Jeu Greenfoot » complet combinant fil d'Ariane, badge, alerte de statut, barres de progression, liste des fonctionnalités et cartes des phases du projet](./img/dashboard-browser.png)
 </BrowserWindow>
 
 ## Kit de départ
@@ -38,13 +38,13 @@ Votre page doit contenir **tous les éléments suivants**. Vous devez chercher d
 
 ### 1. En-tête de page
 
-![img](./img/badge.png)
+![Titre « Tableau de bord - Mon Jeu Greenfoot » accompagné d'un badge jaune « En développement »](./img/badge.png)
 
 - Un **badge** en dessous ou à côté du titre indiquant "En développement"
 
 ### 2. Statut actuel
 
-![img](./img/alert.png)
+![Alerte Bootstrap avec le titre « Statut actuel » décrivant l'état d'avancement du projet](./img/alert.png)
 
 - Une **alert** de type `info`, `success`, `warning` ou `danger` (selon l'état!) pour communiquer l'état du projet au professeur
 - L'alert doit contenir un titre (`alert-heading`): "Statut actuel"
@@ -52,7 +52,7 @@ Votre page doit contenir **tous les éléments suivants**. Vous devez chercher d
 
 ### 3. Progression du projet
 
-![img](./img/progress.png)
+![Trois barres de progression colorées : Fonctionnalités de base à 100 % en vert, Niveaux du jeu à 60 % en jaune et Tests et débogage à 25 % en rouge](./img/progress.png)
 
 - Trois **barres de progression** (**progress bar**) montrant:
   - Fonctionnalités de base: 100%
@@ -67,7 +67,7 @@ Le texte au dessus de la barre est simplement un `<p>` (ou autre), il ne fait pa
 
 ### 4. Liste des fonctionnalités
 
-![img](./img/list.png)
+![Liste groupée des fonctionnalités avec des badges de statut colorés, l'item « Gestion des points » étant actif en bleu](./img/list.png)
 
 - Une **liste groupée** (list group) de 5 fonctionnalités
 - Au moins 2 items doivent avoir un **badge** indiquant le statut
@@ -85,7 +85,7 @@ Le texte au dessus de la barre est simplement un `<p>` (ou autre), il ne fait pa
 
 ### 5. Phases du projet
 
-![img](./img/cards.png
+![Trois cartes côte à côte présentant les phases Conception, Développement et Tests, chacune avec un en-tête, un texte descriptif et un bouton](./img/cards.png
 
 - Trois **cards** côte à côte (utilisez le système de grille Bootstrap)
 - Chaque card doit contenir :
@@ -104,7 +104,7 @@ Le texte au dessus de la barre est simplement un `<p>` (ou autre), il ne fait pa
 
 ### 6. Navigation (fil d'Ariane)
 
-![img](./img/breadcrumbs.png)
+![Fil d'Ariane « Projets / Mon Jeu Greenfoot / Tableau de bord » affiché au-dessus du titre de la page](./img/breadcrumbs.png)
 
 - Un **breadcrumb** en haut de page montrant: `Projets > Mon Jeu Greenfoot > Tableau de bord`
 
@@ -120,7 +120,7 @@ Le texte au dessus de la barre est simplement un `<p>` (ou autre), il ne fait pa
 
 <details>
     <summary>
-      Cheat Code (solution) <img style={{height: '20px', 'vertical-align': 'middle'}} src="https://imgur.com/UCEksuH.png" />
+      Cheat Code (solution) <img style={{height: '20px', 'vertical-align': 'middle'}} src="https://imgur.com/UCEksuH.png" alt="" />
     </summary>
 
     Votre résultat pourrait être différent, l'important est d'avoir tous les composants demandés.

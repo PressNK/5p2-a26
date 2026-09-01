@@ -95,7 +95,7 @@ h1 {
 
 Reproduisez le plus fidèlement possible le visuel suivant:
 
-![img](./img/photos-grid.png)
+![Galerie « Ma Galerie Photo » disposée en grille de 4 colonnes : la photo 1 occupe 2 colonnes et 2 rangées, les photos 2 à 9 occupent une cellule chacune](./img/photos-grid.png)
 
 ## Instructions
 
@@ -110,7 +110,7 @@ Pour faire occuper plusieurs cellules à un élément, `span` dans la propriét�
 
 <details>
     <summary>
-      Cheat Code (solution) <img style={{height: '20px', 'vertical-align': 'middle'}} src="https://imgur.com/UCEksuH.png" />
+      Cheat Code (solution) <img style={{height: '20px', 'vertical-align': 'middle'}} src="https://imgur.com/UCEksuH.png" alt="" />
     </summary>
 
     <SandpackPlayground
