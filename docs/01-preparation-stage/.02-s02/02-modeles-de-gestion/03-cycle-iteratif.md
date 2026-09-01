@@ -34,7 +34,7 @@ Le projet est découpé en plusieurs cycles (itérations) successifs, chacun app
 
 1. **Estimer** le temps total requis
 2. **Classer** en ordre décroissant par complexité
-3. **Diviser** en cycles (~1 mois par cycle)
+3. **Diviser** en cycles (~2 semaines par cycle)
 4. Chaque cycle travaille **plusieurs cas d'utilisation**, pas simplement un seul
 
 :::tip
