@@ -219,15 +219,15 @@ Dans votre rapport, indiquez simplement **la date du point de suivi où se trouv
 
 Vous avez d'autres cours. Ce découpage fait tenir le TP en **trois blocs d'environ deux heures**. Suivez-le.
 
-| Quand | Quoi |
-|---|---|
-| **Mardi 8 septembre** *(en classe)* | Présentation du TP · Démonstration de Planner · **Formation des équipes et inscription à une équipe Teams** |
-| **Jeudi 10 septembre, 23 h 59** *(échéance ferme)* | **Monter le tableau** à partir de la liste de cartes fournie (annexe C), assigner et dater · **Publier la capture d'écran n° 1 dans votre équipe Teams** |
-| **Lundi 14 septembre, 23 h 59** | **Point de suivi n° 1** — chaque membre |
-| **Mardi 15 septembre** *(en classe)* | Réception de la **demande de changement** |
-| **Vendredi 18 septembre, 23 h 59** | **Point de suivi n° 2** — chaque membre |
-| **Mardi 22 septembre** *(en classe)* | **Section 4.4 — rétrospective d'équipe** |
-| **Mardi 22 septembre, 23 h 59** | **Publier la capture d'écran n° 2 dans votre équipe Teams** — celle du tableau de tâches terminé<br>**REMISE** sur Léa : une archive `TP1_NomEquipe_5P2.zip` contenant le rapport (DOCX et PDF) et l'échéancier |
+| Quand | Quoi                                                                                                                                                                                                          |
+|---|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Mardi 8 septembre** *(en classe)* | Présentation du TP · Démonstration de Planner · **Formation des équipes et inscription à une équipe Teams**                                                                                                   |
+| **Jeudi 10 septembre, 23 h 59** *(échéance ferme)* | **Monter le tableau** à partir de la liste de cartes fournie (annexe C), assigner et dater · **Publier la capture d'écran n° 1 dans votre équipe Teams**                                                      |
+| **Lundi 14 septembre, 23 h 59** | **Point de suivi n° 1** — chaque membre                                                                                                                                                                       |
+| **Mardi 15 septembre** *(en classe)* | Réception de la **demande de changement**                                                                                                                                                                     |
+| **Vendredi 18 septembre, 23 h 59** | **Point de suivi n° 2** — chaque membre                                                                                                                                                                       |
+| **Mardi 22 septembre** *(en classe)* | **Section 4.4 — rétrospective d'équipe**                                                                                                                                                                      |
+| **Mardi 22 septembre, 23 h 59** | **Publier la capture d'écran n° 2 dans votre équipe Teams** — celle du tableau de tâches terminé. **REMISE** sur Léa : une archive `TP1_NomEquipe_5P2.zip` contenant le rapport (DOCX et PDF) et l'échéancier |
 
 > ⚠️ **L'échéance à ne pas manquer : le jeudi 10 septembre.** Le tableau doit être monté et la capture publiée dans votre équipe Teams. C'est 8 points, et c'est la seule partie du TP qu'on ne peut pas rattraper — une capture publiée le 21 septembre ne démontre rien.
 
@@ -292,18 +292,18 @@ Une **application Web interne** permettant :
 
 ## Les contraintes
 
-| Contrainte | Détail |
-|---|---|
-| **Échéance** | Le système doit être en service le **1<sup>er</sup> juin 2027**. C'est le début de la haute saison; après cette date, l'usine ne peut plus interrompre ses opérations pour une formation. |
-| **Budget** | Enveloppe approuvée de **110 000 $**, tout inclus. |
-| **Début du mandat** | 12 janvier 2027. |
-| **Votre équipe** | Vous êtes 3 ou 4 personnes à temps plein sur le mandat, à un taux facturable de **85 $/heure**. |
-| **Matériel** | Les tablettes d'atelier ne sont **pas achetées**. Le client attend votre recommandation. Elles doivent résister à un environnement industriel. **Délai de livraison : 8 semaines après la commande.** |
-| **Réseau** | Le Wi-Fi de l'usine est **instable dans deux zones**. L'administrateur réseau du client (M. Tremblay) est disponible **une demi-journée par semaine**. |
-| **Serveur** | Le client refuse l'infonuagique pour les données de production. L'application doit être hébergée **sur un serveur interne**. |
-| **Comptabilité** | Le système comptable existant (Acomba) doit continuer de recevoir les données : une **interface d'exportation** est requise. La documentation du fournisseur est disponible. |
-| **Utilisateurs** | Plusieurs opérateurs ont **plus de 25 ans d'ancienneté** et n'ont jamais utilisé de tablette. La direction est préoccupée par leur adhésion. |
-| **Interlocuteurs** | **M<sup>me</sup> Julie Rivard**, directrice générale — a approuvé le budget et signe les décisions.<br>**M. Sylvain Côté**, contremaître — connaît le processus mieux que quiconque, mais est sur le plancher 90 % du temps.<br>**M<sup>me</sup> Diane Lemieux**, commis — c'est elle qui fait la double saisie aujourd'hui. |
+| Contrainte | Détail                                                                                                                                                                                                                                                                                                                 |
+|---|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Échéance** | Le système doit être en service le **1<sup>er</sup> juin 2027**. C'est le début de la haute saison; après cette date, l'usine ne peut plus interrompre ses opérations pour une formation.                                                                                                                              |
+| **Budget** | Enveloppe approuvée de **110 000 $**, tout inclus.                                                                                                                                                                                                                                                                     |
+| **Début du mandat** | 12 janvier 2027.                                                                                                                                                                                                                                                                                                       |
+| **Votre équipe** | Vous êtes 3 ou 4 personnes à temps plein sur le mandat, à un taux facturable de **85 $/heure**.                                                                                                                                                                                                                        |
+| **Matériel** | Les tablettes d'atelier ne sont **pas achetées**. Le client attend votre recommandation. Elles doivent résister à un environnement industriel. **Délai de livraison : 8 semaines après la commande.**                                                                                                                  |
+| **Réseau** | Le Wi-Fi de l'usine est **instable dans deux zones**. L'administrateur réseau du client (M. Tremblay) est disponible **une demi-journée par semaine**.                                                                                                                                                                 |
+| **Serveur** | Le client refuse l'infonuagique pour les données de production. L'application doit être hébergée **sur un serveur interne**.                                                                                                                                                                                           |
+| **Comptabilité** | Le système comptable existant (Acomba) doit continuer de recevoir les données : une **interface d'exportation** est requise. La documentation du fournisseur est disponible.                                                                                                                                           |
+| **Utilisateurs** | Plusieurs opérateurs ont **plus de 25 ans d'ancienneté** et n'ont jamais utilisé de tablette. La direction est préoccupée par leur adhésion.                                                                                                                                                                           |
+| **Interlocuteurs** | **M<sup>me</sup> Julie Rivard**, directrice générale — a approuvé le budget et signe les décisions. **M. Sylvain Côté**, contremaître — connaît le processus mieux que quiconque, mais est sur le plancher 90 % du temps. **M<sup>me</sup> Diane Lemieux**, commis — c'est elle qui fait la double saisie aujourd'hui. |
 
 > 💡 **Les hypothèses.** Le dossier ne dit pas tout, et c'est voulu. Chaque fois qu'une information vous manque, **posez une hypothèse et écrivez-la** dans une courte section « Hypothèses » à la fin de votre rapport. Une hypothèse claire ne coûte aucun point. Une information inventée sans le dire, oui.
 
