@@ -1,5 +1,5 @@
 # (S5) Mission 2 — Planifier un projet, et livrer en équipe
-![](https://img.shields.io/badge/À%20compléter%20avant%20le-22%20septembre%202026%2023%3A59-red) ![](https://img.shields.io/badge/-Individuel-orange)
+![](https://img.shields.io/badge/À%20compléter%20avant%20le-22%20septembre%202026%2023%3A59-red) ![](https://img.shields.io/badge/-En%20équipe-orange)
 
 | | |
 |---|---|
