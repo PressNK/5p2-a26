@@ -27,6 +27,31 @@ Scrum est un **cadre de travail léger** qui aide les personnes, les équipes et
 - Les équipes doivent rester **petites** — généralement **moins de 10 personnes**
 :::
 
+### À qui je m'adresse ?
+
+| N° | Situation                                                                                     |
+|----|-----------------------------------------------------------------------------------------------|
+| 1  | Je ne comprends pas ce que la story demande exactement.                                       |
+| 2  | Mon environnement de développement ne compile plus depuis ce matin.                           |
+| 3  | Le Product Owner m'a ajouté une tâche en plein milieu du sprint et je ne sais pas quoi faire. |
+| 4  | Je trouve que la mêlée quotidienne ne sert à rien et dure trop longtemps.                     |
+| 5  | Je voudrais savoir si je peux prendre congé vendredi.                                         |
+
+<details>
+<summary>Voir la réponse</summary>
+
+| N° | Réponse                                                                                                     |
+|----|-------------------------------------------------------------------------------------------------------------|
+| 1  | **Product Owner**. C'est précisément sa raison d'être.                                                      |
+| 2  | **Un collègue développeur**. Après avoir cherché seul 30 à 60 minutes.                                      |
+| 3  | **Scrum Master**. Protéger le sprint est exactement son mandat. Et non, vous n'êtes pas obligé de dire oui. |
+| 4  | **Scrum Master**, ou mieux : en rétrospective de sprint. C'est la réunion qui existe pour ça.               |
+| 5  | **Votre gestionnaire**. Scrum ne remplace pas la structure de l'entreprise.                                 |
+
+Vous venez de vous doter d'un détecteur.
+
+</details>
+
 ## Le récit d'utilisateur (User Story)
 
 Le récit d'utilisateur n'est pas un élément propre à Scrum, mais il y est grandement utilisé, notamment dans le *product backlog*. Cette approche permet de décrire un besoin que **tout le monde peut comprendre** — peu importe son expertise, ce qui en fait un excellent outil pour une équipe multidisciplinaire.
@@ -42,6 +67,18 @@ En tant que <qui>, je veux <quoi> afin de <pourquoi>
 :::
 
 À l'intérieur du récit d'utilisateur, l'équipe ajoute des éléments d'analyse et des tâches à réaliser.
+
+### Critères d'acceptation
+
+Une story sans critères d'acceptation est **ingérable** : personne ne sait quand elle est finie. Le format le plus répandu en entreprise tient en trois mots :
+
+| Mot                            | Ce qu'on écrit                                                                                             |
+|--------------------------------|------------------------------------------------------------------------------------------------------------|
+| **Étant donné**                | Le contexte de départ. « Étant donné un utilisateur connecté avec le rôle gestionnaire… »                  |
+| **Quand**                      | L'action. « …quand il clique sur Exporter… »                                                               |
+| **Alors**                      | Le résultat observable. « …alors un fichier .xlsx est téléchargé et contient une ligne par client actif. » |
+
+**Ils sont écrits avant de commencer à coder, pas après.**
 
 ## La définition de terminé (Definition of Done)
 
