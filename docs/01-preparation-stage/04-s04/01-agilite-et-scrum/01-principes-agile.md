@@ -5,7 +5,7 @@
 
 ## Activité - Ca va changer ou pas ?
 
-Voici quatre projets. Levez la main si vous pensez que les besoins du client vont changer de façon importante pendant le projet.</summary>
+Voici quatre projets. Levez la main si vous pensez que les besoins du client vont changer de façon importante pendant le projet.
 
 | Projet                                                                                        |
 |-----------------------------------------------------------------------------------------------|
