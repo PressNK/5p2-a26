@@ -215,7 +215,7 @@ Dans votre rapport, indiquez simplement **la date du point de suivi où se trouv
 
 ---
 
-# Calendrier et échéances
+## Calendrier et échéances
 
 Vous avez d'autres cours. Ce découpage fait tenir le TP en **trois blocs d'environ deux heures**. Suivez-le.
 
@@ -233,7 +233,7 @@ Vous avez d'autres cours. Ce découpage fait tenir le TP en **trois blocs d'envi
 
 ---
 
-# Grille d'évaluation
+## Grille d'évaluation
 
 | Critère | Points | Ce qui est regardé |
 |---|---|---|
@@ -267,20 +267,20 @@ Vous avez d'autres cours. Ce découpage fait tenir le TP en **trois blocs d'envi
 
 ---
 
-# Annexe A — Le dossier client
+## Annexe A — Le dossier client
 
-## Le client
+### Le client
 
 **Les Ateliers Rivard inc.**, entreprise manufacturière de la région de Drummondville, 140 employés, répartis sur deux bâtiments (usine et bureaux administratifs). Elle fabrique des composantes métalliques sur mesure.
 
-## La situation actuelle
+### La situation actuelle
 
 - Les **bons de travail** à l'atelier se font sur papier. Un contremaître imprime chaque matin les bons de la journée et les distribue aux postes.
 - À la fin du quart, les feuilles sont ramassées et une commis **ressaisit manuellement** les heures et les quantités dans un fichier Excel, puis dans le système comptable. Cette double saisie prend **2 heures par jour** et génère des erreurs.
 - Impossible de savoir **en temps réel** où en est une commande : le service à la clientèle doit appeler le contremaître.
 - Des feuilles sont parfois perdues ou illisibles (huile, déchirures).
 
-## Ce que le client demande
+### Ce que le client demande
 
 Une **application Web interne** permettant :
 
@@ -290,7 +290,7 @@ Une **application Web interne** permettant :
 4. à la direction d'obtenir un **rapport hebdomadaire** (heures, quantités, taux de rejet) exportable en Excel;
 5. une **authentification** à trois niveaux d'accès : opérateur, contremaître, administration.
 
-## Les contraintes
+### Les contraintes
 
 | Contrainte | Détail                                                                                                                                                                                                                                                                                                                 |
 |---|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -309,7 +309,7 @@ Une **application Web interne** permettant :
 
 ---
 
-# Annexe B — La demande de changement
+## Annexe B — La demande de changement
 
 > ✉️ **Courriel reçu de la cliente**
 
@@ -330,7 +330,7 @@ Une **application Web interne** permettant :
 
 ---
 
-# Annexe C — Les cartes à créer dans votre tableau
+## Annexe C — Les cartes à créer dans votre tableau
 
 Voici les cartes à créer dans votre Planner. La liste est la même pour toutes les équipes : vous n'avez pas à l'inventer.
 
@@ -359,7 +359,7 @@ Voici les cartes à créer dans votre Planner. La liste est la même pour toutes
 
 ---
 
-# Sept conseils pour réussir
+## Sept conseils pour réussir
 
 1. **Montez le tableau en premier.** Les cartes sont déjà listées à l'annexe C : vous n'avez qu'à les créer, les assigner et les dater. Quinze minutes, et vous saurez enfin qui fait quoi. **Échéance ferme : jeudi 10 septembre, 23 h 59.**
 2. **Commencez ensuite par le WBS.** Tout le reste en découle. Une équipe qui commence par l'échéancier travaille à l'envers.
