@@ -312,8 +312,8 @@ Une **application Web interne** permettant :
 ## Annexe B — La demande de changement
 
 > ✉️ **Courriel reçu de la cliente**
-
 > **De :** Julie Rivard, directrice générale — Les Ateliers Rivard inc.
+> 
 > **Objet :** Petit changement à prévoir sur le projet
 >
 > Bonjour,
