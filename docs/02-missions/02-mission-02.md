@@ -311,7 +311,22 @@ Une **application Web interne** permettant :
 
 # Annexe B — La demande de changement
 
-> ⚠️ Cette annexe vous sera remise **en classe, au début du cours du mardi 15 septembre**. Son contenu n'est pas connu d'avance — c'est volontaire.
+> ✉️ **Courriel reçu de la cliente**
+
+> **De :** Julie Rivard, directrice générale — Les Ateliers Rivard inc.
+> **Objet :** Petit changement à prévoir sur le projet
+>
+> Bonjour,
+>
+> Bonne nouvelle et mauvaise nouvelle.
+>
+> La bonne : notre plus gros client vient de nous confirmer un contrat majeur. La mauvaise : il exige un suivi de production en ligne, et il commence ses livraisons le 1<sup>er</sup> avril 2027.
+>
+> J'ai donc besoin que la partie *« consultation de l'état d'une commande »* soit disponible **deux mois plus tôt** que prévu. Le reste peut rester au 1<sup>er</sup> juin.
+>
+> Je ne peux pas augmenter le budget. Dites-moi ce que ça implique et ce que vous me recommandez.
+>
+> Julie Rivard, directrice générale
 
 ---
 
