@@ -12,7 +12,7 @@
 
 À partir de la [mise en situation](#mise-en-situation), vous devez proposer des changements dans la gestion du projet pour s'enligner vers une approche Agile et inspirée de SCRUM.
 
-Le rapport doit respecter les normes de présentation du Cégep et contenir les 5 sections ci-dessous :
+Le rapport doit contenir les 5 sections ci-dessous :
 
 ### 1. Identification des problématiques de l'équipe
 
