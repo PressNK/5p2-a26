@@ -42,6 +42,6 @@ Avec les outils d'IA générative (Copilot, ChatGPT, etc.), une partie du code �
 |      | Conclusion                                      | 5 min  |
 
 :::tip Brise-glace (5 min)
-Demandez à main levée : « Qui a déjà eu un collègue de travail ou d'équipe **insupportable**? Pourquoi? » Notez les réponses au tableau. Vous constaterez que **presque aucune n'est technique** : retards, ne répond pas, arrogant, ne prévient pas, etc. Vous venez de définir le savoir-être.
+À main levée : « Qui a déjà eu un collègue de travail ou d'équipe **insupportable**? Pourquoi? ».
 :::
 
