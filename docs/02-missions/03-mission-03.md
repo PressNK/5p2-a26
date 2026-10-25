@@ -1,4 +1,4 @@
-# Mission 3 — Conversion d'une équipe vers une méthodologie SCRUM
+# (S9) Mission 3 — Conversion d'une équipe vers une méthodologie SCRUM
 ![](https://img.shields.io/badge/À%20compléter%20avant%20le-27%20octobre%202026%2023%3A59-red) ![](https://img.shields.io/badge/-En%20équipe%20de%20deux-orange)
 
 ## Consignes
