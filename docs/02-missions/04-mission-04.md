@@ -2,7 +2,7 @@
 ---
 
 # (S12) Mission 4 — Étude de cas : projets et intervenants
-![](https://img.shields.io/badge/À%20compléter%20avant%20le-10%20novembre%202026%2023%3A59-red) ![](https://img.shields.io/badge/-En%20équipe%20de%20trois-orange)
+![](https://img.shields.io/badge/À%20compléter%20avant%20le-17%20novembre%202026%2023%3A59-red) ![](https://img.shields.io/badge/-En%20équipe%20de%20trois-orange)
 
 ## Votre mission
 
@@ -22,7 +22,7 @@ Les cas de cette mission sont **plus complets** que ceux pratiqués en classe : 
 - Chaque équipe analyse **6 cas** : **3 cas « Services et infrastructure numériques »** (section A) et **3 cas « Développement logiciel »** (section B), selon la [répartition des cas](#répartition-des-cas).
 - L'**équipe 6** analyse plutôt **4 cas** : **2 cas** de la section A et **2 cas** de la section B.
 - Le rapport doit être remis par la plateforme **Léa** en format **DOCX et PDF**. Le tout dans un **seul fichier compressé ZIP**.
-- Le travail doit être remis au plus tard le **10 novembre 2026 à 23 h 59**.
+- Le travail doit être remis au plus tard le **17 novembre 2026 à 23 h 59**.
 - **-10 % par jour de retard.**
 
 ## Répartition des cas
@@ -207,7 +207,7 @@ Un cas qui ne correspond **pas** à votre numéro d'équipe ne sera **pas corrig
 
 ## Modalités de remise
 
-- Remis par **Léa**, avant le **10 novembre 2026 à 23 h 59**.
+- Remis par **Léa**, avant le **17 novembre 2026 à 23 h 59**.
 - Un seul membre de l'équipe dépose le travail. Indiquez le **nom des coéquipiers** et le **numéro d'équipe** dans la zone de commentaire.
 - Déposez les deux fichiers : `TP3_EquipeX_5P2.docx` et `TP3_EquipeX_5P2.pdf` (remplacez `X` par votre numéro d'équipe). Compressez-les dans un **fichier ZIP** nommé `TP3_EquipeX_5P2.zip`.
 - -10 % par jour de retard.
