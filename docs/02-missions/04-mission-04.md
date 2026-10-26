@@ -1,13 +1,13 @@
 ---
 ---
 
-# (S11) Mission 4 — Étude de cas : projets et intervenants
+# (S12) Mission 4 — Étude de cas : projets et intervenants
 ![](https://img.shields.io/badge/À%20compléter%20avant%20le-10%20novembre%202026%2023%3A59-red) ![](https://img.shields.io/badge/-En%20équipe%20de%20trois-orange)
 
 ## Votre mission
 
 :::caution Votre objectif
-Pour **10 % de la session**, démontrer que vous êtes capable d'analyser un projet d'entreprise en appliquant la [méthode d'analyse d'un cas](../01-preparation-stage/07-s07/01-etude-de-cas-projets-et-intervenants/01-methode-danalyse-dun-cas.md) vue à la semaine 7 : identifier les **livrables**, les **tâches**, les **métiers** et l'**ordre chronologique** des livrables, puis **justifier** vos choix.
+Pour **20 % de la session**, démontrer que vous êtes capable d'analyser un projet d'entreprise en appliquant la [méthode d'analyse d'un cas](../01-preparation-stage/07-s07/01-etude-de-cas-projets-et-intervenants/01-methode-danalyse-dun-cas.md) vue à la semaine 7 : identifier les **livrables**, les **tâches**, les **métiers** et l'**ordre chronologique** des livrables, puis **justifier** vos choix.
 :::
 
 :::danger
@@ -21,7 +21,7 @@ Les cas de cette mission sont **plus complets** que ceux pratiqués en classe : 
 - Le travail doit être fait en **équipe de trois** (exception : l'**équipe 6** est composée de **deux personnes**).
 - Chaque équipe analyse **6 cas** : **3 cas « Services et infrastructure numériques »** (section A) et **3 cas « Développement logiciel »** (section B), selon la [répartition des cas](#répartition-des-cas).
 - L'**équipe 6** analyse plutôt **4 cas** : **2 cas** de la section A et **2 cas** de la section B.
-- Le rapport doit être remis par la plateforme **Léa** en format **DOCX et PDF**.
+- Le rapport doit être remis par la plateforme **Léa** en format **DOCX et PDF**. Le tout dans un **seul fichier compressé ZIP**.
 - Le travail doit être remis au plus tard le **10 novembre 2026 à 23 h 59**.
 - **-10 % par jour de retard.**
 
@@ -70,7 +70,7 @@ Chaque cas contient **1 question** liée à la méthode d'analyse vue à la sema
 - Page de titre : nom du cours, titre de la mission, noms et numéros de DA des trois coéquipiers, **numéro d'équipe**, date de remise.
 - Une section par cas, identifiée par son numéro et son titre (ex. « Cas A3 — La clinique dentaire multisite »).
 - Police sobre (Arial, Calibri), taille 11 ou 12, tableaux lisibles.
-- Nom des fichiers : `Mission4_Equipe##_NomFamille1_NomFamille2_NomFamille3.docx` et `.pdf`.
+- Nom des fichiers : `TP3_EquipeX_5P2.docx` et `TP3_EquipeX_5P2.pdf` (remplacez `X` par votre numéro d'équipe).
 
 ---
 
@@ -172,10 +172,10 @@ Utilisez les métiers présentés dans les [cas pratiques — développement log
 
 ## Critères d'évaluation
 
-Le travail pratique vaut pour **10 % de la note finale** du cours. Il est évalué sur **100 points** : chaque cas ⭐⭐ vaut **15 points** et chaque cas ⭐⭐⭐ vaut **20 points**. Chaque équipe a **2 cas ⭐⭐⭐ et 4 cas ⭐⭐**, ce qui donne le même total pour toutes les équipes.
+Le travail pratique vaut pour **20 % de la note finale** du cours. Il est évalué sur **100 points** : chaque cas ⭐⭐ vaut **15 points** et chaque cas ⭐⭐⭐ vaut **20 points**. Chaque équipe a **2 cas ⭐⭐⭐ et 4 cas ⭐⭐**, ce qui donne le même total pour toutes les équipes.
 
 :::info Équipe 6 — évaluation sur 70
-L'équipe 6 (deux personnes) a **2 cas ⭐⭐⭐ et 2 cas ⭐⭐** : son travail est évalué **sur 70 points** (2 × 20 + 2 × 15), puis ramené sur la même pondération de **10 %** que les autres équipes.
+L'équipe 6 (deux personnes) a **2 cas ⭐⭐⭐ et 2 cas ⭐⭐** : son travail est évalué **sur 70 points** (2 × 20 + 2 × 15), puis ramené sur la même pondération de **20 %** que les autres équipes.
 :::
 
 ### Grille par cas
@@ -194,12 +194,12 @@ L'équipe 6 (deux personnes) a **2 cas ⭐⭐⭐ et 2 cas ⭐⭐** : son travail
 
 | **Évaluation**                                                                                |   **Pondération** |
 |-----------------------------------------------------------------------------------------------|------------------:|
-| 4 cas ⭐⭐ (4 × 15)                                                                           |              60   |
+| 4 cas ⭐⭐ (4 × 15)                                                                           |                60 |
 | 2 cas ⭐⭐⭐ (2 × 20)                                                                         |                40 |
 | **Total**                                                                                     |           **100** |
-| **Total — équipe 6** (2 cas ⭐⭐ + 2 cas ⭐⭐⭐)                                                 |            **70** |
-| **Respect des modalités** (page de titre, nom des fichiers, format DOCX + PDF, cas attribués) | jusqu'à -2 points |
-| **Français** : 0,2 point par faute                                                            | jusqu'à -3 points |
+| **Total — équipe 6** (2 cas ⭐⭐ + 2 cas ⭐⭐⭐)                                              |            **70** |
+| **Respect des modalités** (page de titre, nom des fichiers, format DOCX + PDF, cas attribués) | Pénalité à la discrétion de l'enseignant (max 10 %) |
+| **Français**                                                                                  | Pénalité à la discrétion de l'enseignant (max 10 %) |
 
 :::warning Cas non attribués
 Un cas qui ne correspond **pas** à votre numéro d'équipe ne sera **pas corrigé** et vaudra 0.
@@ -209,7 +209,7 @@ Un cas qui ne correspond **pas** à votre numéro d'équipe ne sera **pas corrig
 
 - Remis par **Léa**, avant le **10 novembre 2026 à 23 h 59**.
 - Un seul membre de l'équipe dépose le travail. Indiquez le **nom des coéquipiers** et le **numéro d'équipe** dans la zone de commentaire.
-- Déposez les deux fichiers : `Mission4_Equipe##_NomFamille1_NomFamille2_NomFamille3.docx` et `Mission4_Equipe##_NomFamille1_NomFamille2_NomFamille3.pdf`.
+- Déposez les deux fichiers : `TP3_EquipeX_5P2.docx` et `TP3_EquipeX_5P2.pdf` (remplacez `X` par votre numéro d'équipe). Compressez-les dans un **fichier ZIP** nommé `TP3_EquipeX_5P2.zip`.
 - -10 % par jour de retard.
 
 :::tip Avant de remettre — liste de vérification

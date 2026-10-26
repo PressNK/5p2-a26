@@ -3,6 +3,8 @@ slug: /
 title: 🎓 Introduction
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 # Préparation au stage
 
 ![intro-stage](https://metiersquebec.ca/wp-content/uploads/2025/11/Devenir-Technicien-informatique-Support-niveau-1-2-3-au-Quebec-810x400.jpg)
@@ -17,10 +19,12 @@ Cette fondation vous permettra de bien vous présenter aux employeurs, de vous i
 
 ## Plan de cours
 
-<DocCard item={{
-type: 'link',
-href: 'https://cegepdrummond-my.sharepoint.com/my?viewid=b7ab69eb%2D045b%2D4285%2Dac4f%2Da9028eb997c1&id=%2Fpersonal%2Fpresley%5Fnkambou%5Fcegepdrummond%5Fca%2FDocuments%2FCOURS%2F420%2D5P2%2DDM%2DA26%2F420%2D5P2%2DDM%5FPN%5FA26%2Epdf&parent=%2Fpersonal%2Fpresley%5Fnkambou%5Fcegepdrummond%5Fca%2FDocuments%2FCOURS%2F420%2D5P2%2DDM%2DA26',
-label: 'Voir le plan de cours (PDF)' }} />
+<a
+className="button button--primary button--lg"
+href={useBaseUrl('/files/plan-cours-A26.pdf')}
+download="plan-cours-A26.pdf">
+📄 Télécharger le plan de cours (PDF)
+</a>
 
 ## Grille d'évaluation du cours
 
@@ -28,10 +32,9 @@ label: 'Voir le plan de cours (PDF)' }} />
 |-----------------------------------------------------|------------|-------------|
 | CV et lettre de présentation                        | Semaine 3  | 5%          |
 | Remise TP 1 – Projet et planifications              | Semaine 5  | 20%         |
-| Remise TP 2 – SCRUM                                 | Semaine 8  | 20%         |
-| Remise TP 3 – Étude de cas – Projet et intervenants | Semaine 11 | 10%         |
-| Remise TP 4 – Rapport de recherche de stage         | Semaine 14 | 10%         |
-| Examen sommatif                                     | Examen     | 35%         |
+| Remise TP 2 – SCRUM                                 | Semaine 9  | 20%         |
+| Remise TP 3 – Étude de cas – Projet et intervenants | Semaine 12 | 20%         |
+| Examen sommatif                                     | Semaine 15 | 35%         |
 
 ## Communication et disponibilité
 
